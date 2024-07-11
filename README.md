@@ -1,4 +1,4 @@
-# Web Authentication APIs
+# The Hard Parts of Asynchronous JavaScript
 
 # Introduction
 
